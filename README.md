@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taichi @uiuxatai2022
 - 👀 I’m interested in design and development
-- 🌱 I’m currently learning UX and front end developement
+- 🌱 I’m currently learning UX and front-end development
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me: taiu.engineer@gmail.com
 
